@@ -1,0 +1,25 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Templates/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "vitae"
+author: "Steven Xu"
+
+address: "34307 Havers Dr. · Cary · NC 27518"
+fontawesome: yes
+email: sgxu@ncsu.edu
+phone: "+1 (530)-601-3587"
+web: stevenxu.com
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
