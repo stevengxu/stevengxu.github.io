@@ -26,7 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sgxu79.github.io/demo/</guid>
-      <description> Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate multiple quantile levels of a complex relationship using Bayesian non-parametric approach. </description>
+      <description>Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate multiple quantile levels of a complex relationship using Bayesian non-parametric approach.
+Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using Neural Network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</description>
     </item>
     
     <item>
