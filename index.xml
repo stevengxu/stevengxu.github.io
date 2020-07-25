@@ -17,7 +17,7 @@
       
       <guid>https://sgxu79.github.io/about/</guid>
       <description>I am a third year Ph.D. student studying statistics at North Carolina State University. My thesis advisor is Dr. Brian Reich. My research interests include
- Bayesian inference Quantile regression Machine learning  Currently, I am working on simultaneous quantile regression using Bayesian non-parametric approach.</description>
+ Bayesian inference Quantile regression Machine learning  Currently, I am working on simultaneous quantile regression using Bayesian non-parametric approach. An in-depth introduction to my thesis topic can be seen here.</description>
     </item>
     
     <item>
@@ -36,7 +36,8 @@ Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sgxu79.github.io/projects/</guid>
-      <description> Multivariate Process Monitoring using Canonical Variate Analysis: Poster @ 2019 SAS Intern Expo, Slides
+      <description> Review of Simultaneous Quantile Regression Methods: Technical Report
+ Multivariate Process Monitoring using Canonical Variate Analysis: Poster @ 2019 SAS Intern Expo, Slides
  Longitudinal Study of Drilanzaping, A Case Study: Technical Report
  Revisiting Wild Boostrap for Quantile Regression estimator: Technical Report
  Robust Bayesian Forecasting with State-space Model: Technical Report
