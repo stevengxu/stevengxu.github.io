@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Xu</title>
-    <link>https://sgxu79.github.io/</link>
+    <link>https://stevengxu.github.io/</link>
     <description>Recent content on Steven Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://sgxu79.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevengxu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://sgxu79.github.io/about/</link>
+      <link>https://stevengxu.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgxu79.github.io/about/</guid>
+      <guid>https://stevengxu.github.io/about/</guid>
       <description>I am a third year Ph.D. student studying statistics at North Carolina State University. My thesis advisor is Dr. Brian Reich. My research interests include
  Bayesian inference Quantile regression Machine learning  Currently, I am working on simultaneous quantile regression using Bayesian non-parametric approach. An in-depth introduction to my thesis topic can be seen here.</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://sgxu79.github.io/demo/</link>
+      <link>https://stevengxu.github.io/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgxu79.github.io/demo/</guid>
-      <description>Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate multiple quantile levels of a complex relationship using Bayesian non-parametric approach.
-Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using Neural Network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</description>
+      <guid>https://stevengxu.github.io/demo/</guid>
+      <description>Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.
+Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sgxu79.github.io/projects/</link>
+      <link>https://stevengxu.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sgxu79.github.io/projects/</guid>
+      <guid>https://stevengxu.github.io/projects/</guid>
       <description>Online Unsupervised Wildfire Detection Using Satellite Imagery: Technical Report
  Submitted to 2nd IEEE Workshop on Machine Learning for Big Data Analytics in Remote Sensing  Transportability from randomized trials to routine care: On initial HIV treatment with efavirenz and suicidal thoughts or behaviors
  Submitted to American Journal of Epidemiology (under revision)  Review of Simultaneous Quantile Regression Methods: Technical Report
