@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stevengxu.github.io/about/</guid>
-      <description>I am a third year Ph.D. student studying statistics at North Carolina State University. My thesis advisor is Dr. Brian Reich. My research interests include
- Bayesian inference Quantile regression Machine learning  Currently, I am working on simultaneous quantile regression using Bayesian non-parametric approach. An in-depth introduction to my thesis topic can be seen here.</description>
+      <description>I am a fifth year Ph.D. student studying statistics at North Carolina State University. My thesis advisor is Dr. Brian Reich. My research interests include
+ Bayesian Nonparametrics Causal Inference Anomaly Detection  Specifically, I develop Bayesian non-parametric models for simultaneous estimation of non-crossing, non-linear qauntile curves. An in-depth introduction to my thesis topic can be seen here. I have proposed a Bayesian non-parametric quantile process regression model by combining the approximation power of splines and Neural Network.</description>
     </item>
     
     <item>
@@ -37,8 +37,8 @@ Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementat
       
       <guid>https://stevengxu.github.io/projects/</guid>
       <description>Online Unsupervised Wildfire Detection Using Satellite Imagery: Technical Report
- Submitted to 2nd IEEE Workshop on Machine Learning for Big Data Analytics in Remote Sensing  Transportability from randomized trials to routine care: On initial HIV treatment with efavirenz and suicidal thoughts or behaviors
- Submitted to American Journal of Epidemiology (under revision)  Review of Simultaneous Quantile Regression Methods: Technical Report
+ Presented at 2021 International Geoscience and Remote Sensing Symposium (IGARSS)  Transportability from randomized trials to routine care: On initial HIV treatment with efavirenz and suicidal thoughts or behaviors
+ Published in American Journal of Epidemiology Link  Review of Simultaneous Quantile Regression Methods: Technical Report
  Ph.d. written preliminary exam (passed)  Multivariate Process Monitoring using Canonical Variate Analysis: Poster @ 2019 SAS Intern Expo, Slides</description>
     </item>
     
