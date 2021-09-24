@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stevengxu.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevengxu.github.io/about/</loc>
   </url>
   
@@ -16,10 +21,6 @@
   
   <url>
     <loc>https://stevengxu.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stevengxu.github.io/</loc>
   </url>
   
   <url>
