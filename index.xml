@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steven Xu</title>
+    <title>Steven G. Xu</title>
     <link>https://stevengxu.github.io/</link>
-    <description>Recent content on Steven Xu</description>
+    <description>Recent content on Steven G. Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -11,35 +11,34 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://stevengxu.github.io/about/</link>
+      <title>Codes</title>
+      <link>https://stevengxu.github.io/codes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevengxu.github.io/about/</guid>
-      <description>I am a fifth year Ph.D. student studying statistics at North Carolina State University. My thesis advisor is Dr. Brian Reich. My research interests include
- Bayesian Nonparametrics Causal Inference Anomaly Detection  Specifically, I develop Bayesian non-parametric models for simultaneous estimation of non-crossing, non-linear qauntile curves. An in-depth introduction to my thesis topic can be seen here. I have proposed a Bayesian non-parametric quantile process regression model by combining the approximation power of splines and Neural Network.</description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://stevengxu.github.io/demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevengxu.github.io/demo/</guid>
+      <guid>https://stevengxu.github.io/codes/</guid>
       <description>Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.
 Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://stevengxu.github.io/projects/</link>
+      <title>Publications</title>
+      <link>https://stevengxu.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevengxu.github.io/projects/</guid>
+      <guid>https://stevengxu.github.io/publications/</guid>
       <description>Online Unsupervised Wildfire Detection Using Satellite Imagery: Technical Report
  Presented at 2021 International Geoscience and Remote Sensing Symposium (IGARSS)  Transportability from randomized trials to routine care: On initial HIV treatment with efavirenz and suicidal thoughts or behaviors
  Published in American Journal of Epidemiology Link  Review of Simultaneous Quantile Regression Methods: Technical Report
  Ph.d. written preliminary exam (passed)  Multivariate Process Monitoring using Canonical Variate Analysis: Poster @ 2019 SAS Intern Expo, Slides</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://stevengxu.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevengxu.github.io/resume/</guid>
+      <description>You can download a PDF copy of my Résumé here.</description>
     </item>
     
   </channel>

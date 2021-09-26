@@ -3,24 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stevengxu.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevengxu.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://stevengxu.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://stevengxu.github.io/demo/</loc>
+    <loc>https://stevengxu.github.io/codes/</loc>
   </url>
   
   <url>
-    <loc>https://stevengxu.github.io/projects/</loc>
+    <loc>https://stevengxu.github.io/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stevengxu.github.io/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stevengxu.github.io/</loc>
   </url>
   
   <url>
