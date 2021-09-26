@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stevengxu.github.io/codes/</guid>
-      <description>Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.
-Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</description>
+      <description>Hyperspectral Image Anomaly Detection using RPCA Python implementaion of Robust Principal Component Analysis (RPCA)-based image anomaly detection algorithm described in Xu, Kong, and Asgharzadeh (2021). The algorithm is particularly designed for wildfire detection using GOES-16 imagery. The brightness temperature (BT) difference between short-wave and long-wave infrared bands is sensitive to active fire. Image matrix of this measurement can be decomposed into low-rank and sparse components, where the latter represent wildfire pixels.</description>
     </item>
     
     <item>
@@ -26,7 +25,7 @@ Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stevengxu.github.io/publications/</guid>
-      <description>Preprints Peer Reviewed Publications Xu, S. G. and Reich, B. J. (2021+). Bayesian Non-parametric Quantile Process Regression and Estimation of Marginal Quantile Effects, In press. Biometrics. arXiv Github  Xu, S. G., Kong, S., and Asgharzadeh, Z. (2021). Wildfire Detection Using Streaming Satellite Imagery. Proceedings of the 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). PDF Github  Mollan, K.R., Pence, B.W., Xu, S., Edwards, J.K., Mathews, W.C., O’Cleirigh, C.</description>
+      <description>Preprints Peer Reviewed Publications Xu, S. G. and Reich, B. J. (2021+). Bayesian Non-parametric Quantile Process Regression and Estimation of Marginal Quantile Effects, In press. Biometrics. arXiv Github Data  Xu, S. G., Kong, S., and Asgharzadeh, Z. (2021). Wildfire Detection Using Streaming Satellite Imagery. Proceedings of the 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). PDF Github Data  Mollan, K.R., Pence, B.W., Xu, S., Edwards, J.K., Mathews, W.</description>
     </item>
     
     <item>

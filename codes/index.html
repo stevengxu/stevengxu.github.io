@@ -11,12 +11,10 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Codes"/>
-<meta name="twitter:description" content="Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.
-Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging."/>
+<meta name="twitter:description" content="Hyperspectral Image Anomaly Detection using RPCA Python implementaion of Robust Principal Component Analysis (RPCA)-based image anomaly detection algorithm described in Xu, Kong, and Asgharzadeh (2021). The algorithm is particularly designed for wildfire detection using GOES-16 imagery. The brightness temperature (BT) difference between short-wave and long-wave infrared bands is sensitive to active fire. Image matrix of this measurement can be decomposed into low-rank and sparse components, where the latter represent wildfire pixels."/>
 
     <meta property="og:title" content="Codes" />
-<meta property="og:description" content="Bayesian Simultaneous Quantile Regression This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.
-Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging." />
+<meta property="og:description" content="Hyperspectral Image Anomaly Detection using RPCA Python implementaion of Robust Principal Component Analysis (RPCA)-based image anomaly detection algorithm described in Xu, Kong, and Asgharzadeh (2021). The algorithm is particularly designed for wildfire detection using GOES-16 imagery. The brightness temperature (BT) difference between short-wave and long-wave infrared bands is sensitive to active fire. Image matrix of this measurement can be decomposed into low-rank and sparse components, where the latter represent wildfire pixels." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://stevengxu.github.io/codes/" />
 
@@ -82,6 +80,10 @@ Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementat
               <a class="navigation-link" href="https://stevengxu.github.io/publications/">Publications</a>
             </li>
         
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://stevengxu.github.io/codes/">Codes</a>
+            </li>
+        
       
       
     </ul>
@@ -106,23 +108,32 @@ Bayesian Quantile Regression with Python  Jupyter-notebook  A simple implementat
       <br>
     </header>
 
-    
+    <h2>Hyperspectral Image Anomaly Detection using RPCA</h2>
 
-<h1 id="bayesian-simultaneous-quantile-regression">Bayesian Simultaneous Quantile Regression</h1>
-
-<p>This is a visual demonstration of my current project. The objective is to simultaneously estimate nonlinear noncrossing quantile curves using Bayesian nonparametric approach.</p>
-
-<p align="center">
-  <img src="https://stevengxu.github.io/demo/qt_ald_demo.gif" alt="BSQR" width="200"/>
+<p align="left">Python implementaion of Robust Principal Component Analysis (RPCA)-based image anomaly detection algorithm described in <a href="https://stevengxu.github.io/publications/Wildfire_IGARSS.pdf">Xu, Kong, and Asgharzadeh (2021)</a>. 
+The algorithm is particularly designed for wildfire detection using GOES-16 imagery. The brightness temperature (BT) difference between short-wave and long-wave infrared bands is sensitive to active fire. Image matrix
+of this measurement can be decomposed into low-rank and sparse components, where the latter represent wildfire pixels. The sparse component is post-processed by cloud and noise filters to eliminate false positives.
 </p>
 
-<h1 id="bayesian-quantile-regression-with-python">Bayesian Quantile Regression with Python</h1>
+<p><a href="//nbviewer.jupyter.org/github/stevengxu/Wildfire-Detection-Using-RPCA/blob/main/notebook/Unsupervised_Wildfire_Detection_Using_GOES-16_Imagery.ipynb"><i class="fas fa-fw fa-code fa-x" aria-hidden="true"></i> Jupyter Notebook</a></p>
 
-<ul>
-<li><a href="https://stevengxu.github.io/demo/BQRegression.html">Jupyter-notebook</a></li>
-</ul>
+<h2>Bayesian Nonparametric Quantile Process Regression</h2>
 
-<p>A simple implementation of Bayesian quantile regression using neural network and asymmetric Laplace likelihood. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.</p>
+<p align="left">R implementaion of the QUINN model described in <a href="//arxiv.org/abs/2102.11309">Xu and Reich (2021+)</a>. 
+The conditional density function is expanded by a convex sum of monotonic spline basis functions, and the spline coefficients are 
+modeled as feature-dependent functions using 3-layer neural network. The network weights are assigned prior distributions, and posterior 
+distribution of the model is approximated by No-U-Turn Sampler (NUTS).
+</p>
+
+<p><a href=//github.com/stevengxu/quinn"><i class="fas fa-fw fa-code fa-x" aria-hidden="true"></i> R scripts</a></p>
+
+<h2>Bayesian Quantile Regression using Neural Network</h2>
+
+<p align="left">A simple Python implementation of Bayesian quantile regression where the quantile is modeled by a 4-layer neural network, 
+and the data is assumed to follow an asymmetric Laplace distribution. Posterior sampling is carried out by Hamilton Monte Carlo with Dual Averaging.
+</p>
+
+<p><a href="//nbviewer.jupyter.org/github/stevengxu/MA591-Scientific-Computing-With-Python/blob/master/project/Bayesian_Quantile_Regression.ipynb"><i class="fas fa-fw fa-code fa-x" aria-hidden="true"></i> Jupyter Notebook</a></p>
 
     <br><br>
   </article>
